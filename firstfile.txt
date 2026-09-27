@@ -1,2 +1,2 @@
 created new file
-pull check
+pull checks
